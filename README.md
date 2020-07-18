@@ -1,5 +1,5 @@
 # About This Page
-Hello there! This page is dedicated to presenting the projects I have created. Links are provided for you to explore them. Enjoy!
+Hello there! This page is dedicated to presenting the projects I built. Links are provided for you to explore them. Enjoy!
 
 
 # Style Me
