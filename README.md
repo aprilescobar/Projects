@@ -1,7 +1,6 @@
-# About Me
-Full Stack Software Engineer experienced in JavaScript on React framework and Ruby on Rails. I have a background in Fashion Design and Retail Management that keeps my front-end skills focused on visual aesthetics and the UX. My back-end skills are strengthened by my experiences in Production Management that conditioned me to always be mindful of the data in production.
+# About This Page
+Hello there! This page is dedicated to presenting the projects I have created. Links are provided for you to explore them. Enjoy!
 
-# Projects
 
 # Style Me
 <div align="center">
